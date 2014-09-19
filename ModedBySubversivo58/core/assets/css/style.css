@@ -187,6 +187,9 @@ STRUCTURE
 .fr{float: right;}
 /*COLORS*/
 .white{color:black;background-color:#FFFFFF;}
+.black{color:white;background-color:#000000;}
+.black:hover{background-image: linear-gradient(to top, transparent, #6C6C6C);cursor: pointer;}
+.blue{color:white;background-color:#0000FF;}
 .orange{color:black;background-color:#FF8000;}
 
 /* MASCK */
