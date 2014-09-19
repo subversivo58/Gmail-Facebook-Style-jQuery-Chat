@@ -7,8 +7,8 @@ Simple implementation for script chat developed by Anant Garg
 
 ## Demo
 * Coming Soon...
-* video example...
-* 
+* Video example...
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Pwgg-3xd9YM
 " target="_blank"><img src="http://img.youtube.com/vi/Pwgg-3xd9YM/0.jpg" 
@@ -27,7 +27,7 @@ alt="Video example!!!" width="560" height="315" border="10" /></a>
 * 
 
 ## Setup original source
-* For original source go [Anat Garg page about the chat](http://anantgarg.com/2009/05/13/gmail-facebook-style-jquery-chat/)
+* For setup original source go [Anat Garg page about the chat](http://anantgarg.com/2009/05/13/gmail-facebook-style-jquery-chat/)
 * Or page about go [example-chat about](http://developer58.tk/demo/chat-example/)
 
 ## Support
@@ -77,7 +77,7 @@ alt="Video example!!!" width="560" height="315" border="10" /></a>
 
 ## About this
 * View page [example-chat about](http://developer58.tk/demo/chat-example/)
-* 
+ 
 
 ## PS:
 * Sorry I not speaking english :P
