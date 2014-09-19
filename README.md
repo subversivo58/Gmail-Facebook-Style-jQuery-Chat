@@ -10,7 +10,9 @@ Simple implementation for script chat developed by Anant Garg
 * video example...
 * 
 
-[![Video Example](http://img.youtube.com/vi/=Pwgg-3xd9YM/0.jpg)](http://www.youtube.com/watch?v=Pwgg-3xd9YM)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Pwgg-3xd9YM
+" target="_blank"><img src="http://img.youtube.com/vi/Pwgg-3xd9YM/0.jpg" 
+alt="Video example!!!" width="560" height="315" border="10" /></a>
 
 
 ## Description
