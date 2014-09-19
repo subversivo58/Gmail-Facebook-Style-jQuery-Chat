@@ -3,7 +3,7 @@ Gmail-Facebook-Style-jQuery-Chat
 
 Simple implementation for script chat developed by Anant Garg
 
-# (IMPLEMENTATION/MODED)
+### (IMPLEMENTATION/MODED)
 
 ## Demo
 * Coming Soon...
