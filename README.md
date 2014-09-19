@@ -7,6 +7,8 @@ Simple implementation for script chat developed by Anant Garg
 
 ## Demo
 * Coming Soon...
+* video example...
+* <iframe width="640" height="360" src="//www.youtube.com/embed/Pwgg-3xd9YM" frameborder="0" allowfullscreen></iframe>
 
 ## Description
 * This script for original developement by Anant Garg in 2009...simple fast and beautiful
