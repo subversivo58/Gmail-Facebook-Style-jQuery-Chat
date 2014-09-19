@@ -1,0 +1,24 @@
+@charset "utf-8";
+/*
+ * CSS Document
+ * Written by Ryan Yonzon
+ * http://ryan.rawswift.com/
+ */
+ 
+/*
+ * IE hack 
+ */
+html, body {
+	margin:0px;
+	overflow:hidden; /* hide browser's main scrollbar */
+	height:100%; /* make sure we'll use 100% of the page's height */
+}
+
+#main_container {
+	position:absolute; /* container div must be absolute, for our fixed bar to work */
+	width:100%;
+	background-color:green; /* DO NOT REMOVE THIS; or you'll have issue w/ the scrollbar, when the mouse pointer is on a white space */
+	overflow: hidden;
+	height:100%;	/* this will make sure that the height will extend at the bottom */
+	top: 42px;
+}

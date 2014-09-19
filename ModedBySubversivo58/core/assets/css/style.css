@@ -1,0 +1,200 @@
+::-webkit-scrollbar {width: 5px;}
+/*
+::-webkit-scrollbar-track {background: #E0E0E0;}
+::-webkit-scrollbar-thumb {background: #000000;}
+*/
+@charset "utf-8";
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{ 
+	margin:0;
+	padding:0;
+}
+html,body{
+	margin:0;
+	padding:0;
+	border:none;
+	box-sizing: border-box;
+	list-style: none;
+}
+html, body{
+	height:100%;
+}
+body{
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-family: 'Electrolize', Arial, sans-serif;
+	font-weight: 400;
+	font-size: 100%;
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+
+/************************************************************************************
+STRUCTURE
+*************************************************************************************/
+/* MENU BAR */
+.nav{
+	position:fixed!important;
+	width:100%;
+	top:0px;
+	left:0px;
+	border-bottom:1px solid #CCCCCC;
+	background: white;
+	z-index: 99999;
+}
+/* <ODAL LOGIN */
+.login{
+	width: 60%;
+	height: 50%;
+	position: fixed!important;
+	margin-top: -102%;
+	top: 25%;
+	left: 20%;
+	background: #80FF00;
+	box-shadow: 4px -4px 4px rgba(0,0,0,0.2);
+	z-index:2;
+	-webkit-transition: all .6s ease-in-out;
+	-moz-transition: all .6s ease-in-out;
+	-o-transition: all .6s ease-in-out;
+	-ms-transition: all .6s ease-in-out;
+	transition: all .6s ease-in-out;
+}
+/*MODAL FOR REGISTER */
+.signup{
+	width: 90%;
+	height: 90%;
+	position: fixed!important;
+	margin-top: -102%;
+	top: 5%;
+	left: 5%;
+	background: #80FF00;
+	box-shadow: 4px -4px 4px rgba(0,0,0,0.2);
+	z-index:2;
+	-webkit-transition: all .6s ease-in-out;
+	-moz-transition: all .6s ease-in-out;
+	-o-transition: all .6s ease-in-out;
+	-ms-transition: all .6s ease-in-out;
+	transition: all .6s ease-in-out;
+}
+/* LIST OF USERS SYSTEM BOX AND CONTENTES */
+.list_of_users{
+	width: 230px;
+	height: 70%;
+	position: fixed!important;
+	bottom:-65%;
+	right: 15px;
+	background: #E1E1E1;
+	box-shadow: 4px -4px 4px rgba(0,0,0,0.2);
+	z-index:2;
+	border-bottom: 1px solid red;
+	-webkit-transition: all .6s ease-in-out;
+	-moz-transition: all .6s ease-in-out;
+	-o-transition: all .6s ease-in-out;
+	-ms-transition: all .6s ease-in-out;
+	transition: all .6s ease-in-out;
+}
+.header_list_users{
+	display: inline-block;
+	width: 100%;
+	background: #FF8000;
+}
+.content_list{
+	display: inline-block;
+	width: 92%;
+	background: #FF8000;
+	padding: 4%;
+	word-wrap: break-word;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.chat_avatar{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	background-image: url(../img/user.png);
+	background-size: 100% 100%;
+	border-radius: 50%;
+}
+.chat_avatar img{
+    border-radius: 50%;
+}
+.name_chat_list{
+	width: 80%;
+	float: right;
+	margin-top: 10px;
+}
+/* LOGIN AND SIGNUP MODALS !!! */
+.img_signup{
+	position:absolute;
+	width:25%;
+	height:35%;
+	top:5%;
+	left:11%;
+	background-image:url(../img/user.png);
+	background-size: 100% 100%;
+	border-radius: 50%;
+}
+.signup_report{
+	position: absolute;
+	width: 35%;
+	height: auto;
+	top: 35%;
+	left: 5%;
+	font-size: 18px;
+	padding: 1%;
+	border-radius: 6px;
+}
+.terms{
+	position: absolute;
+	width: 40%;
+	height: 70%;
+	top: 15%;
+	right: 5%;
+	overflow-y:auto;
+	overflow-x:hidden;
+	background: white;
+	padding: 1%;
+}
+.terms p{font-size: 14px;}
+.inp_name,.inp_mail,.inp_pass{position:absolute;width:35%;left:5%;background:white;height:auto;font-size: 18px;padding:1%;border-radius:6px;}
+.inp_name{top:50%;}
+.inp_mail{top:65%;}
+.inp_pass{top:80%;}
+.status_name,.status_mail,.status_password,.status_ok{position:absolute;width:5%;left:43%;height:7%;}
+.status_name{top:50%;}
+.status_mail{top:65%;}
+.status_password{top:80%;}
+.status_ok{top:35%;}
+#sub_sig{position:absolute;top:91%;right:21%;display: none;}
+.alert_signup{position: absolute;width: 60%;height: auto;top: 70%;left: 20%;background:white;display: none;font-size: 18px;text-align: center;padding: 1%;border-radius: 6px;}
+.name_login{position:absolute;width:60%;height:auto;top:35%;left:20%;font-size:18px;padding:1%;border-radius:6px;background:white;}
+.pass_login{position:absolute;width:60%;height:auto;top:55%;left:20%;font-size:18px;padding:1%;border-radius:6px;background:white;}
+.submit_login{position:absolute;top:80%;left:44%;}
+/*BUTTOM SETS*/
+.but{
+    display: inline-block;
+    background-color: #CCCCCC;
+    color: #525252;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+/* EFFECTS */
+.but:hover{background-image: linear-gradient(to top, transparent, rgba(0,0,0,.38));cursor: pointer;}
+/* FLOATS */
+.fl{float: left;}
+.fr{float: right;}
+/*COLORS*/
+.white{color:black;background-color:#FFFFFF;}
+.orange{color:black;background-color:#FF8000;}
+
+/* MASCK */
+#masck{
+	position:absolute;
+  	left:0;
+  	top:0;
+  	z-index:1;
+  	background-color:#000;
+  	display:none;
+}

@@ -1,0 +1,50 @@
+/*
+ * CSS Original Document
+ * Written by Ryan Yonzon
+ * http://ryan.rawswift.com/
+ *
+ *Edited by Subversivo58 on 2014 launch in Github ;)
+ */
+::-webkit-scrollbar {width: 5px;}
+
+::-webkit-scrollbar-track {background: #E0E0E0;}
+
+::-webkit-scrollbar-thumb {background: #000000;}
+
+/* CSS Charset */
+@charset "utf-8";
+
+/* Start CSS reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{ 
+	margin:0;
+	padding:0;
+	box-sizing: 0;
+}
+html,body{
+	margin:0;
+	padding:0;
+}/* Close CSS reset */
+
+html, body{
+	height:100%;
+}
+body{
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-family: 'FontAwesome', Arial, sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+#main_container {
+	position:absolute; /* container div must be absolute, for our fixed bar to work */
+	width:100%;
+	background-color:green; /* DO NOT REMOVE THIS; or you'll have issue w/ the scrollbar, when the mouse pointer is on a white space */
+	overflow: hidden;
+	height:100%;	/* this will make sure that the height will extend at the bottom */
+	top: 42px;
+}
