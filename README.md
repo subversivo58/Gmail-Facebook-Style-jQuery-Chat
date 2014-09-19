@@ -10,7 +10,7 @@ Simple implementation for script chat developed by Anant Garg
 * video example...
 * 
 
-[![Video Example](http://img.youtube.com/vi/=Pwgg-3xd9YM/0.jpg)](http://www.youtube.com/watch?v==Pwgg-3xd9YM)
+[![Video Example](http://img.youtube.com/vi/=Pwgg-3xd9YM/0.jpg)](http://www.youtube.com/watch?v=Pwgg-3xd9YM)
 
 
 ## Description
