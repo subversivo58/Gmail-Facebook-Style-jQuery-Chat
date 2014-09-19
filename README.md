@@ -64,3 +64,7 @@ Simple implementation for script chat developed by Anant Garg
 
 ## About me
  *Or direct contact [Subversivo58](https://www.facebook.com/subversivo58) or see group on Facebook [Projeto Open](https://www.facebook.com/groups/projeto.open/)
+
+ 
+## PS:
+* Sorry I not speaking english :P
