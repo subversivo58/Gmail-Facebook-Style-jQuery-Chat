@@ -14,7 +14,7 @@ Simple implementation for script chat developed by Anant Garg
 * Script this chat original developer [Anant garg see your page](http://anantgarg.com/2009/05/13/gmail-facebook-style-jquery-chat/)
 
 ## Setup
-* For use to example MODED create data base (bank in your server) create tables chat and users (or instal db.sql)
+* For use to example MODED create data base (bank in your server) create tables chat and users (or instal example.sql)
 * For use to example MODED change "connect_db.php" in patch "core/securyt_/conn_/" setup values your host db (dbname, host, userdb and passworddb)
 * For use to example MODED change "chat.php" setup values your host db (host, userdb, passworddb and dbname)
 ## Setup
