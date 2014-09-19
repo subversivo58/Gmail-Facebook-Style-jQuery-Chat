@@ -172,7 +172,7 @@ $id = $fetch['id'];
 
                  <div class="alert_signup">
                        <center>
-                         Um link de ativação foi enviado para seu e-mail! Verifique-o.
+                         Cadastro realizado! <a id="link-login" href="#login">Faça login</a>.
                        <center>
 
                  </div>
