@@ -20,12 +20,15 @@ alt="Video example!!!" width="560" height="315" border="10" /></a>
 * Simple implementation for script for usual use.
 * Script this chat original developer [Anant garg see your page](http://anantgarg.com/2009/05/13/gmail-facebook-style-jquery-chat/)
 
-## Setup
+## Setup my example
 * For use to example MODED create data base (bank in your server) create tables chat and users (or instal example.sql)
 * For use to example MODED change "connect_db.php" in patch "core/securyt_/conn_/" setup values your host db (dbname, host, userdb and passworddb)
 * For use to example MODED change "chat.php" setup values your host db (host, userdb, passworddb and dbname)
-## Setup
+* 
+
+## Setup original source
 * For original source go [Anat Garg page about the chat](http://anantgarg.com/2009/05/13/gmail-facebook-style-jquery-chat/)
+* Or page about go [example-chat about](http://developer58.tk/demo/chat-example/)
 
 ## Support
 
@@ -70,8 +73,11 @@ alt="Video example!!!" width="560" height="315" border="10" /></a>
 
 
 ## About me
- *Or direct contact [Subversivo58](https://www.facebook.com/subversivo58) or see group on Facebook [Projeto Open](https://www.facebook.com/groups/projeto.open/)
+* Or direct contact [Subversivo58](https://www.facebook.com/subversivo58) or see group on Facebook [Projeto Open](https://www.facebook.com/groups/projeto.open/)
 
- 
+## About this
+* View page [example-chat about](http://developer58.tk/demo/chat-example/)
+* 
+
 ## PS:
 * Sorry I not speaking english :P
