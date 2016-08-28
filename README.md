@@ -28,7 +28,6 @@ alt="Video example!!!" width="560" height="315" border="10" /></a>
 
 ## Setup original source
 * For setup original source go [Anat Garg page about the chat](http://anantgarg.com/2009/05/13/gmail-facebook-style-jquery-chat/)
-* Or page about go [example-chat about](http://developer58.tk/demo/chat-example/)
 
 ## Support
 
@@ -70,13 +69,6 @@ alt="Video example!!!" width="560" height="315" border="10" /></a>
 * The pattern of changes in the PDO connection used refers only and exclusively the user registration, login, script of protect pages...and list users system on menu list users chat !!!
 
 ###CONSIDER CONTRIBUTING TO THE IMPROVEMENT OF THIS SCRIPT HERE IN GITHUB !!!###
-
-
-## About me
-* Or direct contact [Subversivo58](https://www.facebook.com/subversivo58) or see group on Facebook [Projeto Open](https://www.facebook.com/groups/projeto.open/)
-
-## About this
-* View page [example-chat about](http://developer58.tk/demo/chat-example/)
  
 
 ## PS:
